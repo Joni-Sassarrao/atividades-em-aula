@@ -7,7 +7,6 @@ function App() {
     <>
       <Header/>
       <Outlet/>
-      <h1>Home</h1>
     </>
   )
 }
