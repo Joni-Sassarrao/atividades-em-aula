@@ -1,0 +1,7 @@
+{
+  "name": "Criptografar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
